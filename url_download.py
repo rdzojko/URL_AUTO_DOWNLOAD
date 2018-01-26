@@ -3,7 +3,7 @@ import requests
 import datetime
 
 CONFIG = 'url_config.config'
-UNC = '\\\\csgimp22.prodnet.dom\\USA_LOAD\\CURRENT\\OFAC'
+UNC = 'C:\users\temp\'
 
 
 def download_file(url):
